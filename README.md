@@ -1,4 +1,4 @@
-##⚡ YouTubeDataZero
+#⚡ YouTubeDataZero
 
 Библиотека для получения статистики видео с YouTube на PHP.
 
