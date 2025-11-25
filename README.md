@@ -1,4 +1,6 @@
-# Библиотека для получения статистики видео с YouTube на PHP.
+# ⚡ SteamAuthZero
+
+**Библиотека для получения статистики видео с YouTube на PHP.**
 
 [![PHP Version](https://img.shields.io/badge/php-%3E%3D7.4-777bb4.svg?style=flat-square)](https://www.php.net/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
