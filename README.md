@@ -70,7 +70,9 @@ try {
     'views'        => 1450300200, // int
     'likes'        => 17000000,   // int
     'thumbnail'    => 'https://i.ytimg.com/vi/dQw4w9WgXcQ/maxresdefault.jpg',
-    'published_at' => '2009-10-25T06:57:33Z'
+    'published_at' => '2009-10-25T06:57:33Z',
+    'duration_iso' => 'PT3M33S',  // string: Оригинальный формат ISO 8601 из API
+    'duration'     => '00:03:33'  // string: Отформатированное время (ЧЧ:ММ:СС)
 ]
 ```
 
