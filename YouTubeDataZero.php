@@ -109,9 +109,6 @@ class YouTubeDataZero
         return isset($thumbnails['default']) ? $thumbnails['default']['url'] : null;
     }
 
-    /**
-     * Преобразует ISO 8601 duration (PT1H2M10S) в читаемый формат (01:02:10)
-     */
     private function formatDuration($isoDuration)
     {
         if (!$isoDuration) return null;
@@ -124,3 +121,4 @@ class YouTubeDataZero
         }
     }
 }
+
