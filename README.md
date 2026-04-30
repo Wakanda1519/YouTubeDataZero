@@ -1,4 +1,4 @@
-# ⚡ SteamAuthZero
+# ⚡ YouTubeZero
 
 **Библиотека для получения статистики видео с YouTube на PHP.**
 
